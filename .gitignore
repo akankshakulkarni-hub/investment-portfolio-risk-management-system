@@ -1,0 +1,6 @@
+node_modules/
+.env
+dist/
+build/
+portfolio-frontend/node_modules/
+portfolio-backend/node_modules/
